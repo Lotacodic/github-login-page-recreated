@@ -1,0 +1,107 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+img {
+    justify-content: center;
+    margin-bottom: 5px;
+    margin-top: 30pxpx;
+}
+h2{
+    text-align: center;
+    padding: 0;
+    margin-bottom: 20px;
+}
+form{
+    margin: 0 auto;
+    width: 50%;
+    border: 1px solid rgb(220, 220, 245);
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgb(234, 234, 238);
+    height: 12em;
+    width: 17em;
+}
+div.form {
+    margin: 0 auto;
+    width: 50%;
+    border: 1px solid rgb(220, 220, 245);
+    padding: 0.9em;
+    border-radius: 10px;
+    margin-top: 15px;
+    text-align: center;
+    width: 19em;
+    height: 1em;
+}
+.new{
+    padding: 5px;
+    font-size: 14px;
+}
+a{
+    text-decoration: none;
+    color: rgb(79, 79, 252);
+    font-size: 16px;
+}
+a:hover{
+    text-decoration: underline;
+}
+.login,input,button {
+    display: block;
+}
+h2{
+    font-size: 30px;
+}
+.login{
+    margin-left: 0;
+    font-size: 16px;
+    margin-top: 15px ;
+    margin-bottom: 15px;
+}
+.pwd{
+    font-size: 11px;
+    margin-right: 0;
+    text-align: right;
+}
+.pwd:hover{
+    text-decoration: none;
+}
+input {
+    width: 100%;
+    border: 1px solid #aaa;
+    border-radius:5px ;
+    padding: 8px;
+}
+input:focus{
+    outline: none;
+    border: 2px solid rgb(79, 79, 252);
+}
+
+button {
+    margin-top: 15px;
+    width: 107%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    background-color: rgb(30, 128, 30);
+    text-align: center;
+    color: #eee;
+}
+.foter{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.terms{
+    font-size: small;
+}
+.privacy{
+    font-size: small;
+}
+.security{
+    font-size: small;
+}
+.contact{
+    text-decoration: none;
+    font-size: small;
+    color: inherit;
+}
