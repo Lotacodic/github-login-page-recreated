@@ -7,7 +7,6 @@
 <h3>The Desktop View</h3>
 <br>
 <img src="/images/desktop.png">
-<hr>
 <h3>The Android View</h3>
 <br>
 <img src="/images/android.png">
