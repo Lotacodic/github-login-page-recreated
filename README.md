@@ -9,5 +9,5 @@
 <img src="/images/desktop.png">
 <hr>
 <br>
-<h3>The Desktop View</h3>
+<h3>The Android View</h3>
 <img src="/images/android.png">
