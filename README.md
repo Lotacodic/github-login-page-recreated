@@ -8,6 +8,6 @@
 <br>
 <img src="/images/desktop.png">
 <hr>
-<br>
 <h3>The Android View</h3>
+<br>
 <img src="/images/android.png">
