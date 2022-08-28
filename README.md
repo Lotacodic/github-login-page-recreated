@@ -1,5 +1,5 @@
 # GITHUB LOGIN PAGE
-<p>I recreated the login interface of <a href="https//github.com">GitHub<a> using just HTML and Javascript</p>
+<p>I recreated the login interface of <a href="https//github.com">GitHub<a> using just HTML and Javascript.</p>
 <br>
 <h3>Link to the Recreate Webpage</h3>
 <a href="https://githubloginpage.netlify.app/">Check It Out Here<a>
